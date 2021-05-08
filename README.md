@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hulksan28
+- 👀 I’m interested in developing Java/Python applications
+- 🌱 I’m currently learning Artificial Intelligence with Python
+- 💞️ I’m looking to collaborate on projects using Java and Python
+- 📫 How to reach me (Mail- santoshjayanth28@gmail.com,LinkedIn-https://www.linkedin.com/in/santosh-jayanth-amara-9387b01b0/,Instagram - @furious_jayanth)
