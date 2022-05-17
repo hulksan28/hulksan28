@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing Java/Python applications
 - 🌱 I’m currently learning Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on projects using Machine Learning
-- 📫 How to reach me (  Mail- santoshjayanth28@gmail.com, LinkedIn-https://www.linkedin.com/in/santosh-jayanth-amara, Instagram - @furious_jayanth  )
+- 📫 How to reach me (  Mail- santoshjayanthamara@gmail.com, LinkedIn-https://www.linkedin.com/in/santosh-jayanth-amara, Instagram - @furious_jayanth  )
